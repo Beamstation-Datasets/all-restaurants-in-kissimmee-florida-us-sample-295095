@@ -1,12 +1,12 @@
 {
-  "export_job_id": "69470e48-bfbb-4da4-99f8-05697f8fd96d",
+  "export_job_id": "5550b135-70fe-44cd-93c3-8cbff4ab4825",
   "id_short": 295095,
-  "published_at": "2026-04-19T19:30:03Z",
+  "published_at": "2026-04-23T19:14:40Z",
   "repo_name": "all-restaurants-in-kissimmee-florida-us-sample-295095",
   "sample_asset_name": "beamstation_295095_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/295095/beamstation_295095_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 55,
-  "sample_sha256": "1a6fc8c6faf166bf07b4c7d27bdb96c2fb6b705cf5fd2dffb86457e26133f3e9",
-  "sample_size_bytes": 161749,
-  "total_records": 559
+  "sample_records": 44,
+  "sample_sha256": "fca4b847e237d50d53a184f7041e100acd2a5d34d65a2a1f8dd0b89b8ff0327a",
+  "sample_size_bytes": 152644,
+  "total_records": 443
 }
